@@ -16,9 +16,8 @@ int main(){
     wamount = amount - payable;
     printf("Do you have any previous dues (Y/N): ");
     scanf("%s",&ch);
-    //ch = getch();
-    //system("cls");
-
+//ftugfufjkhgfuksdui
+//gfdjgdjhgfuy
     if(ch=='Y'||ch=='y'){
         printf("Enter the due amount: ");
         scanf("%d",&due);
